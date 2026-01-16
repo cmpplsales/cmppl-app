@@ -8,8 +8,8 @@ import { createClient } from "@supabase/supabase-js";
 
 // ------- SUPABASE SETUP -------
 const supabase = createClient(
-  "https://bldsenlwhknswhpqizzg.supabase.co",
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJsZHNlbmx3aGtuc3docHFpenpnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDc4MjE5NDcsImV4cCI6MjA2MzM5Nzk0N30.sh6FWF0R2UP5vzzySP4VV9MeGQsbkFR-H-XrkCijkwM"
+  "https://barqwghiqazltkcnifxt.supabase.co",
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJhcnF3Z2hpcWF6bHRrY25pZnh0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Njc5NTAxOTYsImV4cCI6MjA4MzUyNjE5Nn0.lx-Pdyl1mGJJ0mS7iP0gDUuUpTL9UgsLfqsa5HNBtNg"
 );
 const BUCKET = "documents";
 
